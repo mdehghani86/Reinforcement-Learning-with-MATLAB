@@ -1,5 +1,9 @@
+[![View Reinforcement-Learning-RL-with-MATLAB on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/111460-reinforcement-learning-rl-with-matlab)
+
 # Reinforcement-Learning-RL-with-MATLAB
 This repository contains series of modules to get started with Reinforcement Learning with MATLAB.
+
+Solutions are available upon instructor request. Please contact us 
 
 It is divided into 4 stages.
 
