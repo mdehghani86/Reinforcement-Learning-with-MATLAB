@@ -23,5 +23,6 @@ Engineering problems, that we will build using the concepts taught before.
 Please go through the folder named 'Introduction and Documentation' to get started with the modules.
 You can view the MATLAB script by opening the PDF associated with that repective module.
 
-Cite As
+Cite as: 
+
 Sahil S. Belsare, Mohammad Dehghani, Rifat Sipahi, (2022). Reinforcement-Learning-RL-with-MATLAB (https://github.com/mdehghani86/Reinforcement-Learning-RL-with-MATLAB/releases/tag/v1.0.0), GitHub. Retrieved May 10, 2022.
