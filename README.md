@@ -5,8 +5,6 @@ This repository contains series of modules to get started with Reinforcement Lea
 
 Solutions are available upon instructor request. Please contact Melda Ulusoy (<mulusoy@mathworks.com>)
 
-
-
 It is divided into 4 stages.
 
 In **Stage 1** we start with learning RL concepts by manually coding the RL problem. Later 
