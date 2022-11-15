@@ -3,7 +3,7 @@
 # Reinforcement-Learning-RL-with-MATLAB
 This repository contains series of modules to get started with Reinforcement Learning with MATLAB.
 
-**Solutions are available upon instructor request. Please contact [HERE](mailto:mulusoy@mathworks.com?subject=[RL-MATLAB]%20Instructore%20Solution%20Request)**
+**Solutions are available upon instructor request. Please contact [HERE](mailto:mulusoy@mathworks.com?subject=[RL-MATLAB]%20Instructor%20Solution%20Request)**
 
 It is divided into 4 stages.
 
